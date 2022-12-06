@@ -1,11 +1,11 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "V2R",
+    "description": "Deploy V2R.",
+    "keywords": ["V2R"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "0d37702e-8e3d-4627-8043-6219a1c268d4"
+            "value": "67f0bd34-2b97-409e-9919-8a643c6ba7aa"
         },
         "AID": {
             "description": "AlterID",
@@ -16,7 +16,7 @@
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "website": "",
+    "repository": "",
     "stack": "container"
 }
